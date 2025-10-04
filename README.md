@@ -9,7 +9,22 @@
 [![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=flat&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.6-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Now-00D4FF?style=flat&logo=firefox)](https://sdlc302.web.app)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
+
+---
+
+## 🚀 **[🌐 LIVE DEMO - Try ProtoFlow AI Now!](https://sdlc302.web.app)**
+
+**Experience the full power of AI-driven SDLC automation:**
+- 🎯 **No Installation Required** - Run directly in your browser
+- 🤖 **AI-Powered Code Generation** - See intelligent automation in action
+- ⚡ **Complete 7-Step Workflow** - From user stories to deployment
+- 💻 **Live Code Preview** - Real-time HTML generation and preview
+
+**👆 [Click here to access the live application](https://sdlc302.web.app)**
+
+---
 
 </div>
 
@@ -51,6 +66,21 @@ ProtoFlow AI is a cutting-edge web application that revolutionizes software deve
 - **Markdown Rendering** with syntax highlighting
 
 ## 🚀 Quick Start
+
+### 🌐 **Option 1: Try the Live Demo (Recommended)**
+
+**🎯 No installation needed! Experience ProtoFlow AI instantly:**
+
+**👉 [Launch ProtoFlow AI Live Demo](https://sdlc302.web.app)**
+
+- ✅ **Instant Access** - No setup or downloads required
+- 🚀 **Full Featured** - Complete SDLC automation experience
+- 🤖 **AI-Powered** - Real-time code generation and analysis
+- 💾 **Session Persistence** - Your work is automatically saved
+
+---
+
+### 🛠️ **Option 2: Local Development Setup**
 
 ### Prerequisites
 
